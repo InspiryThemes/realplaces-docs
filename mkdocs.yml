@@ -40,6 +40,9 @@ nav:
         - Home - Featured Properties: home-featured-properties.md
         - Home - Partners: home-partners.md
         - Home - News: home-news.md
+    - Properties Search:
+      - Create Search Page: create-search-page.md
+      - Configure Properties Search: configure-properties-search.md
 
 
 # Change it to true before building (mkdocs build) for putting online.
