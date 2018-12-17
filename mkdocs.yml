@@ -1,0 +1,67 @@
+####################################################
+#                                                  #
+#   Documentation for Real Homes WordPress Theme   #
+#                                                  #
+####################################################
+
+site_name: Real Places Documentation
+theme:
+  language: 'en'
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+#   favicon: 'images/base/realhomes-favicon.png'
+#   logo: 'images/base/realhomes-logo.png'
+
+extra_css:
+    - css/layout.css
+
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/InspiryThemes/'
+    - type: 'twitter'
+      link: 'https://twitter.com/InspiryThemes'
+
+nav:
+    - Introduction: index.md
+    - Initial Setup:
+        - Installation & Activation: installation-and-activation.md
+        - Import Demo Contents: import-demo-contents.md
+        - Inspiry Real Estate Settings: inspiry-real-estate-settings.md
+    - Home & News Setup:
+        - Create Home & News Pages: create-home-and-news-pages.md
+        - Header - Theme Options: header-theme-options.md
+        - Home - Image Banner or Google Map or Slider: home-banner-map-slider.md
+        - Home - Layout: home-layout.md
+        - Home - Properties: home-properties.md
+        - Home - How It Works: home-how-it-works.md
+        - Home - Featured Properties: home-featured-properties.md
+        - Home - Partners: home-partners.md
+        - Home - News: home-news.md
+
+
+# Change it to true before building (mkdocs build) for putting online.
+# It should be false for themeforest package.
+use_directory_urls: true
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+     emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - meta
