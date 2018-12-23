@@ -81,8 +81,6 @@ nav:
       - Customize Styles: customize-styles.md
       - Hire Customization Services: hire-customization-services.md
 
-
-
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
 use_directory_urls: true
