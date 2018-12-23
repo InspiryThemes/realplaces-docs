@@ -49,11 +49,11 @@ nav:
       - Adding Property: adding-property.md
     - Pages:
       - Properties Pages: properties-pages.md
-      - Agents Pages: agent-pages.md
+      - Agents Pages: agent-page.md
       - Gallery Pages: gallery-pages.md
-      - Contact Pages: contact-pages.md
-      - FAQs Pages: faqs-pages.md
-      - Testimonials Pages: testimonials-pages.md
+      - Contact Page: contact-page.md
+      - FAQs Page: faqs-page.md
+      - Testimonials Page: testimonials-page.md
     - Member Pages Setup:
       - Allow User Registration: user-registration-setup.md
       - Social Login: social-login.md
