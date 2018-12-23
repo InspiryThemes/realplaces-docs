@@ -26,10 +26,12 @@ extra:
 
 nav:
     - Introduction: index.md
-    - Initial Setup:
+    - Installation and Demo Import:
         - Installation & Activation: installation-and-activation.md
         - Import Demo Contents: import-demo-contents.md
-        - Inspiry Real Estate Settings: inspiry-real-estate-settings.md
+    - Inspiry Real Estate Settings:
+      - Price Format: price-format-settings.md
+      - URL Slugs: url-slugs-settings.md
     - Home & News Setup:
         - Create Home & News Pages: create-home-and-news-pages.md
         - Header - Theme Options: header-theme-options.md
