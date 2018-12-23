@@ -2,24 +2,20 @@ Go to <strong>Dashboard</strong> &rarr; <strong>Pages</strong> &rarr; <strong>Ad
 
 Select the appropriate template from page attributes. As examples are displayed in 5 screen shots below.
 
-<div class="row clearfix">
-<div class="col-md-6 col-lg-3"><img class="light-border" src="assets/realplaces/pages/1.png" alt=""/></div>
-<div class="col-md-6 col-lg-3"><img class="light-border" src="assets/realplaces/pages/2.png" alt=""/></div>
-<div class="col-md-6 col-lg-3"><img class="light-border" src="assets/realplaces/pages/3.png" alt=""/></div>
-<div class="col-md-6 col-lg-3"><img class="light-border" src="assets/realplaces/pages/4.png" alt=""/></div>
-<div class="clearfix"></div>
-<div class="col-md-6 col-lg-3"><img class="light-border" src="assets/realplaces/pages/half-map.png" alt=""/></div>
-</div>
+![Real Places Theme](images/pages/1.png)
+![Real Places Theme](images/pages/2.png)
+![Real Places Theme](images/pages/3.png)
+![Real Places Theme](images/pages/4.png)
+![Real Places Theme](images/pages/half-map.png)
 
  You can filter and sort the properties the way you want from <strong>Properties Settings</strong> meta boxes displayed in the screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/5.png" alt=""/>
-<img class="light-border" src="assets/realplaces/pages/5-1.png" alt=""/>
-
+![Real Places Theme](images/pages/5.png)
+![Real Places Theme](images/pages/5-1.png)
 
 If you want to change the default banner then you can do that from <strong>Banner Settings</strong> meta box displayed in the screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/6.png" alt=""/>
+![Real Places Theme](images/pages/6.png)
 
 You can <strong>Publish</strong> the page once it is ready.
 

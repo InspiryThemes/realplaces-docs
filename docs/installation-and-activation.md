@@ -1,5 +1,5 @@
-In start, You must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex <a target="_blank" href="https://codex.wordpress.org/Installing_WordPress">Installing WordPress</a> especially the <a href="https://wordpress.org/about/requirements/" target="_blank">Requirements</a>.</p>
-<p>Once you have a working version of WordPress, you need to download <a data-lightbox="all-files" href="assets/common-images/all-files.png">All files and documentation</a> from themeforest and extract the downloaded zip to get various files including <strong>inspiry-real-places.zip</strong>.
+In start, You must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex <a target="_blank" href="https://codex.wordpress.org/Installing_WordPress">Installing WordPress</a> especially the <a href="https://wordpress.org/about/requirements/" target="_blank">Requirements</a>.
+Once you have a working version of WordPress, you need to download <a data-lightbox="all-files" href="assets/common-images/all-files.png">All files and documentation</a> from themeforest and extract the downloaded zip to get various files including <strong>inspiry-real-places.zip</strong>.
 
 ### Install Theme Via WordPress Dashboard
 

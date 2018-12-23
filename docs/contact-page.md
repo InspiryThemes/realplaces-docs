@@ -6,23 +6,23 @@ Go to <strong>Dashboard</strong> &rarr; <strong>Pages</strong> &rarr; <strong>Ad
 
 Select the <strong>Contact</strong> template from page attributes. As displayed in the screen shots below.
 
-<img class="light-border" src="assets/realplaces/pages/13.png" alt=""/>
+![Real Places Theme](images/pages/13.png)
 
 Provide address for google map, drag the marker to right position and select your preferred zoom level. You can leave the address field empty if you want to hide google map.
 
-<img class="light-border" src="assets/realplaces/pages/14.png" alt=""/>
+![Real Places Theme](images/pages/14.png)
 
 Provide your office contact details and timings as displayed in the screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/15.png" alt=""/>
+![Real Places Theme](images/pages/15.png)
 
 Provide contact form heading and email to receive messages from contact form.
 
-<img class="light-border" src="assets/realplaces/pages/16.png" alt=""/>
+![Real Places Theme](images/pages/16.png)
 
 If you want to change the default banner then you can do that from <strong>Banner Settings</strong> meta box displayed in the screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/6.png" alt=""/>
+![Real Places Theme](images/pages/6.png)
 
 You can <strong>Publish</strong> the page once it is ready.
 
@@ -36,6 +36,6 @@ Create a new form in "Contact Form 7" plugin to suit your needs OR use the defau
 
 Paste the copied short code in <strong>Contact Page Information</strong> meta box that is displayed in the screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/16.png" alt=""/>
+![Real Places Theme](images/pages/16.png)
 
 Update the page and visit the front end and you will see that default form is replaced with contact form 7.

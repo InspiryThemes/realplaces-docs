@@ -4,14 +4,13 @@ Go to <strong>Dashboard</strong> &rarr; <strong>Pages</strong> &rarr; <strong>Ad
 
 Select the appropriate template from page attributes. As examples are displayed in 3 screen shots below.
 
-<div class="col-md-4 col-lg-4"><img class="light-border" src="assets/realplaces/pages/10.png" alt=""/></div>
-<div class="col-md-4 col-lg-4"><img class="light-border" src="assets/realplaces/pages/11.png" alt=""/></div>
-<div class="col-md-4 col-lg-4"><img class="light-border" src="assets/realplaces/pages/12.png" alt=""/></div>
-
+![Real Places Theme](images/pages/10.png)
+![Real Places Theme](images/pages/11.png)
+![Real Places Theme](images/pages/12.png)
 
 If you want to change the default banner then you can do that from <strong>Banner Settings</strong> meta box displayed in screen shot below.
 
-<img class="light-border" src="assets/realplaces/pages/6.png" alt=""/>
+![Real Places Theme](images/pages/6.png)
 
 You can <strong>Publish</strong> the page once it is ready.
 

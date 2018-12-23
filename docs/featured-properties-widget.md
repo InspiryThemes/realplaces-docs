@@ -1,11 +1,11 @@
-<li>Go to <strong>Appearance</strong> &rarr; <strong>Widgets</strong> and look for <strong>Inspiry Featured Properties </strong> widget.
-<br/>
-<img class="light-border" src="assets/realplaces/widgets/4.png" alt=""/>
+Go to <strong>Appearance</strong> &rarr; <strong>Widgets</strong> and look for <strong>Inspiry Featured Properties </strong> widget.
 
-<li>Use this widget in a sidebar and configure related details.
-<br/>
-<img class="light-border" src="assets/realplaces/widgets/5.png" alt=""/>
+![Real Places Theme](images/widgets/4.png)
 
-<li>Now check out the front end of your site and you will have the <strong>Featured Properties Widget</strong> working for your site.
-<br/>
-<img class="light-border" src="assets/realplaces/widgets/6.png" alt=""/>
+Use this widget in a sidebar and configure related details.
+
+![Real Places Theme](images/widgets/5.png)
+
+Now check out the front end of your site and you will have the <strong>Featured Properties Widget</strong> working for your site.
+
+![Real Places Theme](images/widgets/6.png)
