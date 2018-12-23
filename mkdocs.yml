@@ -54,7 +54,7 @@ nav:
       - Contact Page: contact-page.md
       - FAQs Page: faqs-page.md
       - Testimonials Page: testimonials-page.md
-    - Member Pages Setup:
+    - Member Pages:
       - Allow User Registration: user-registration-setup.md
       - Social Login: social-login.md
       - Favorites Page: favorites-page.md
