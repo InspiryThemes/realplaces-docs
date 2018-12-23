@@ -76,7 +76,7 @@ nav:
       - Content Setup: dsidxpress-content-setup.md
     Maps & reCAPTCHA:
       - Google Maps: google-maps-setup.md
-      - Google reCAPTCHA: google-recaptcha.md
+      - Google reCAPTCHA: google-recaptcha-setup.md
     - Customize Theme:
       - Customize Styles: customize-styles.md
       - Hire Customization Services: hire-customization-services.md
