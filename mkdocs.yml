@@ -1,6 +1,6 @@
 ####################################################
 #                                                  #
-#   Documentation for Real Homes WordPress Theme   #
+#   Documentation for Real PlacesWordPress Theme   #
 #                                                  #
 ####################################################
 
@@ -76,9 +76,19 @@ nav:
     - dsIDXpress IDX Plugin:
       - Installation & Basic Setup: dsidxpress-installation.md
       - Content Setup: dsidxpress-content-setup.md
-    Maps & reCAPTCHA:
+    - Maps & reCAPTCHA:
       - Google Maps: google-maps-setup.md
+      - Google Maps Troubleshooting: google-maps-troubleshooting.md
       - Google reCAPTCHA: google-recaptcha-setup.md
+    - WPML:
+        - WPML Basic Setup: wpml-basic-setup.md
+        - Home & News Page: wpml-home-news-page.md
+        - WPML Menu Sync: wpml-menu-sync.md
+        - String Translation: wpml-string-translation.md
+        - Taxonomy Translation: wpml-taxonomy-translation.md
+        - Slugs Translation: wpml-slugs-translation.md
+        - Translate Property: wpml-translate-property.md
+        - Property Search Page: wpml-property-search-page.md
     - Customize Theme:
       - Customize Styles: customize-styles.md
       - Hire Customization Services: hire-customization-services.md
