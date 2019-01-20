@@ -9,8 +9,8 @@ theme:
   language: 'en'
   name: 'material'
   palette:
-    primary: 'blue'
-    accent: 'blue'
+    primary: 'green'
+    accent: 'freen'
 
 extra_css:
     - css/layout.css

@@ -1,8 +1,14 @@
+# Add News/Post
+
 Go to <strong>Dashboard</strong> &rarr; <strong>Posts</strong> &rarr; <strong>Add New</strong>
 
-Provide the post title 
+### Post Title and Description
 
-![Real Places Theme](images/content/1.png)
+Provide the post title and description
+
+![Real Places Theme](images/content/add-news-post.png)
+
+### Post Format
 
 Select the related post format 
 
@@ -12,13 +18,13 @@ Select the related post format
 
 This theme supports various post formats. So, when you select a post format look out for related meta boxes that will appear after your selection. You need to fill out those meta boxes with related information, so that your post can appear in best possible design.
 
-Write post contents 
-
-![Real Places Theme](images/content/3.png)
+### Select Category and Tags
 
 Add or select related category and tags
 
 ![Real Places Theme](images/content/4.png)
+
+### Featured Image
 
 Provide featured image. Featured image should have minimum width of 850px and minimum height of 570px.
 
@@ -26,4 +32,4 @@ Provide featured image. Featured image should have minimum width of 850px and mi
 
 ![Real Places Theme](images/content/5.png)
 
-Publish the post once you are done.
+**Publish** the post once you are done.
