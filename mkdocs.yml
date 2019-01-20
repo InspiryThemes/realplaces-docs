@@ -11,8 +11,6 @@ theme:
   palette:
     primary: 'blue'
     accent: 'blue'
-#   favicon: 'images/base/realhomes-favicon.png'
-#   logo: 'images/base/realhomes-logo.png'
 
 extra_css:
     - css/layout.css
@@ -26,7 +24,7 @@ extra:
 
 nav:
     - Introduction: index.md
-    - Installation and Demo Import:
+    - Installation & Demo Import:
         - Installation & Activation: installation-and-activation.md
         - Import Demo Contents: import-demo-contents.md
     - Inspiry Real Estate Settings:
@@ -45,17 +43,16 @@ nav:
     - Properties Search:
       - Create Search Page: create-search-page.md
       - Configure Properties Search: configure-properties-search.md
-    - Adding Content:
-      - Adding News Post: adding-news-post.md
-      - Adding Agent: adding-agent.md
-      - Adding Property: adding-property.md
-    - Pages:
-      - Properties Pages: properties-pages.md
-      - Agents Pages: agent-page.md
-      - Gallery Pages: gallery-pages.md
-      - Contact Page: contact-page.md
-      - FAQs Page: faqs-page.md
-      - Testimonials Page: testimonials-page.md
+    - Add Content:
+      - Add News Post: adding-news-post.md
+      - Add Agent: adding-agent.md
+      - Add Property: adding-property.md
+    - Properties Pages: properties-pages.md
+    - Agents Page: agent-page.md
+    - Gallery Pages: gallery-pages.md
+    - Contact Page: contact-page.md
+    - FAQs Page: faqs-page.md
+    - Testimonials Page: testimonials-page.md
     - Member Pages:
       - Allow User Registration: user-registration-setup.md
       - Social Login: social-login.md
@@ -71,8 +68,7 @@ nav:
       - Social Icons: social-icons-widget.md
       - List Custom Taxonomy: custom-taxonomy-widget.md
     - Translation: translation.md
-    - Other Features:
-      - PayPal IPN Setup: paypal-ipn-setup.md
+    - PayPal IPN Setup: paypal-ipn-setup.md
     - dsIDXpress IDX Plugin:
       - Installation & Basic Setup: dsidxpress-installation.md
       - Content Setup: dsidxpress-content-setup.md
