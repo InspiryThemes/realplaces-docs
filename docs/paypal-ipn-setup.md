@@ -1,5 +1,8 @@
 You can install and setup <strong><a href="https://wordpress.org/plugins/paypal-ipn/" target="_blank">PayPal IPN Plugin</a></strong> for payment functionality.
 
+!!!note
+	If the above link doesn't work then you can download the plugin directly by [clicking here](https://github.com/InspiryThemes/paypal-ipn/archive/master.zip).
+
 
 Please navigate to <strong>Dashboard</strong> &rarr; <strong>Plugins</strong> &rarr; <strong>Add New</strong> and search for <strong>"PayPal IPN"</strong> as shown in the screenshot below:
 
