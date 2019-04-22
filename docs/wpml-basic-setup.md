@@ -1,6 +1,6 @@
 # WPML Basic Setup
 
-> I am assuming that you have a working version of WordPress with Real Placestheme installed and configured based on the documenation and sample data provided with in the theme package.
+> I am assuming that you have bought WPML Multilingual CMS package and you have a working version of WordPress with Real Places theme installed and configured based on the documenation and sample data provided with in the theme package.
 
 Please follow the steps below to configure the basic settings for WPML Plugin.
 
