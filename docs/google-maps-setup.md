@@ -20,9 +20,9 @@
 ![Real Places Documentation](images/google-maps/apis-and-services-http-referrers.gif)
 
 6. Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
-![Real Places Documentation](images/google-maps/api-key.png)sdf
+![Real Places Documentation](images/google-maps/api-key.png)
 
-7. Put this **API Key** you just copied in **Customizer** Settings (**Dashboard → Appearance → Theme Options → Misc → Google Maps API Key**). 
-![Real Places Documentation](images/google-maps/google-maps-api-key-section-in-theme-options.png)
+7. Put the copied **API Key** in **Dashboard → Real Estate → Maps**. 
+![Real Places Documentation](images/google-maps/maps-api-key-tab.png)
 
 **Verify Domain with Google**: [https://support.google.com/webmasters/answer/35179](https://support.google.com/webmasters/answer/35179)

@@ -30,6 +30,10 @@ nav:
     - Inspiry Real Estate Settings:
       - Price Format: price-format-settings.md
       - URL Slugs: url-slugs-settings.md
+      - Social: social-icons.md
+      - Google Maps: google-maps-setup.md
+      - Google Maps Troubleshooting: google-maps-troubleshooting.md
+      - Google reCAPTCHA: google-recaptcha-setup.md
     - Home & News Setup:
         - Create Home & News Pages: create-home-and-news-pages.md
         - Header - Theme Options: header-theme-options.md
@@ -72,10 +76,6 @@ nav:
     - dsIDXpress IDX Plugin:
       - Installation & Basic Setup: dsidxpress-installation.md
       - Content Setup: dsidxpress-content-setup.md
-    - Maps & reCAPTCHA:
-      - Google Maps: google-maps-setup.md
-      - Google Maps Troubleshooting: google-maps-troubleshooting.md
-      - Google reCAPTCHA: google-recaptcha-setup.md
     - WPML:
         - WPML Basic Setup: wpml-basic-setup.md
         - Home & News Page: wpml-home-news-page.md
