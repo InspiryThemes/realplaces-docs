@@ -21,10 +21,13 @@
     color: hsl(0, 0%, 69%);
     display: none;
 }
-/*.md-nav.md-nav--secondary  ul  li{*/
-    /*font-weight: 600;*/
-/*}*/
-/*.md-nav.md-nav--secondary  ul  li  li {*/
-    /*font-weight: 400;*/
-/*}*/
-
+.md-typeset .admonition.info>.admonition-title, .md-typeset .admonition.info>summary, .md-typeset .admonition.todo>.admonition-title, .md-typeset .admonition.todo>summary, .md-typeset details.info>.admonition-title, .md-typeset details.info>summary, .md-typeset details.todo>.admonition-title, .md-typeset details.todo>summary {
+    border-bottom-color: rgba(0, 212, 26, 0.1);
+    background-color: rgba(0, 212, 16, 0.1);
+}
+.md-typeset .admonition.info, .md-typeset .admonition.todo, .md-typeset details.info, .md-typeset details.todo {
+    border-left-color: #4cae4f;
+}
+.md-typeset .admonition.info>.admonition-title:before, .md-typeset .admonition.info>summary:before, .md-typeset .admonition.todo>.admonition-title:before, .md-typeset .admonition.todo>summary:before, .md-typeset details.info>.admonition-title:before, .md-typeset details.info>summary:before, .md-typeset details.todo>.admonition-title:before, .md-typeset details.todo>summary:before {
+    color: #4cae4f;
+}
