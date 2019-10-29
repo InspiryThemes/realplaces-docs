@@ -1,0 +1,33 @@
+.md-typeset h1 {
+    font-weight: 700;
+    letter-spacing: -.01em;
+    margin: 0 0 1rem;
+    padding: 0 0 1rem 0;
+    border-bottom: 1px solid #eff0ef;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-weight: 700;
+    letter-spacing: -.01em;
+}
+
+.md-header-nav__button.md-logo * {
+    display: block;
+    width: 65px;
+    height: auto;
+}
+
+.md-footer-copyright {
+    color: hsl(0, 0%, 69%);
+    display: none;
+}
+.md-typeset .admonition.info>.admonition-title, .md-typeset .admonition.info>summary, .md-typeset .admonition.todo>.admonition-title, .md-typeset .admonition.todo>summary, .md-typeset details.info>.admonition-title, .md-typeset details.info>summary, .md-typeset details.todo>.admonition-title, .md-typeset details.todo>summary {
+    border-bottom-color: rgba(0, 212, 26, 0.1);
+    background-color: rgba(0, 212, 16, 0.1);
+}
+.md-typeset .admonition.info, .md-typeset .admonition.todo, .md-typeset details.info, .md-typeset details.todo {
+    border-left-color: #4cae4f;
+}
+.md-typeset .admonition.info>.admonition-title:before, .md-typeset .admonition.info>summary:before, .md-typeset .admonition.todo>.admonition-title:before, .md-typeset .admonition.todo>summary:before, .md-typeset details.info>.admonition-title:before, .md-typeset details.info>summary:before, .md-typeset details.todo>.admonition-title:before, .md-typeset details.todo>summary:before {
+    color: #4cae4f;
+}
