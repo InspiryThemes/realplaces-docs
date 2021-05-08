@@ -17,9 +17,9 @@ extra_css:
 
 extra:
   social:
-    - type: 'facebook'
+    - icon: 'fontawesome/brands/facebook'
       link: 'https://www.facebook.com/InspiryThemes/'
-    - type: 'twitter'
+    - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/InspiryThemes'
 
 nav:
