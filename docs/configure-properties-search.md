@@ -4,6 +4,7 @@ These configuration will affect properties search form in following  places on y
 2. **Properties search form widget for sidebar.**
 
 To configure properties search form, Go to <strong>Appearance</strong> &rarr; <strong>Theme Options</strong> &rarr; <strong>Search</strong>, As displayed in the screen shot below.
+### Properties Page Settings
 
 ![Real Places Theme](images/search/2.png)
 
@@ -49,11 +50,11 @@ Select <strong>4</strong> if you want to display locations like <strong>Country 
 You can change the minimum and maximum price fields values to your needs.
 Only provide comma separated numbers. Do not add decimal points, dashes, spaces or currency signs.
 
-![Real Places Theme](images/search/10-1.png)
+![Real Places Theme](images/search/10.png)
 
 You can also add the minimum and maximum price values for the properties which are available for rent.
 
-![Real Places Theme](images/search/10.png)
+![Real Places Theme](images/search/10-1.png)
 
 <hr/>
 
