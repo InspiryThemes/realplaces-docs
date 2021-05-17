@@ -23,6 +23,6 @@
 ![Real Places Documentation](images/google-maps/api-key.png)
 
 7. Put the copied **API Key** in **Dashboard → Real Estate → Maps**. 
-![Real Places Documentation](images/google-maps/maps-api-key-tab.png)
+![Real Places Documentation](images/google-maps/1.png)
 
 **Verify Domain with Google**: [https://support.google.com/webmasters/answer/35179](https://support.google.com/webmasters/answer/35179)

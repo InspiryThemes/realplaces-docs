@@ -31,6 +31,7 @@ nav:
       - Price Format: price-format-settings.md
       - URL Slugs: url-slugs-settings.md
       - Social: social-icons.md
+      - Open Street Maps: open-street-maps.md
       - Google Maps: google-maps-setup.md
       - Google Maps Troubleshooting: google-maps-troubleshooting.md
       - Google reCAPTCHA: google-recaptcha-setup.md
