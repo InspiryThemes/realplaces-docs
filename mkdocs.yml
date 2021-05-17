@@ -34,6 +34,7 @@ nav:
       - Google Maps: google-maps-setup.md
       - Google Maps Troubleshooting: google-maps-troubleshooting.md
       - Google reCAPTCHA: google-recaptcha-setup.md
+      - Mortgage Calculator: mortgage-alculator-setup.md
     - Home & News Setup:
         - Create Home & News Pages: create-home-and-news-pages.md
         - Header - Theme Options: header-theme-options.md
