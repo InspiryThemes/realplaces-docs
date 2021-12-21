@@ -43,13 +43,13 @@ Activating the theme will take you to the themes page.
 ![Real Places Theme](images/install/8.png)
 
 - Now, <strong>Install</strong> the plugins as demonstrated in the screen shot below.
-![Real Places Theme](images/install/9.png)
+![Real Places Theme](images/install/9.1.png)
 
 - After installation, you will view a screen like below, Return to required plugins installer.
 ![Real Places Theme](images/install/10.png)
 
 - Now <strong>Activate</strong> all the plugins as demonstrated in the screen shot below.
-![Real Places Theme](images/install/11.png)
+![Real Places Theme](images/install/11.1.png)
 
 - After activating required plugins, Go to <strong>Inspiry Real Estate</strong> plugin settings and save them for 1st time. As guided in screenshot below.
 ![Real Places Theme](images/install/11-b.png)
