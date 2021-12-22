@@ -2,4 +2,4 @@
 
 You can change <strong>URL slugs</strong> using settings displayed below.
 
-![Real Places Theme](images/inspiry-plugin/2.png)
+![Real Places Theme](images/inspiry-plugin/url-slug.png)

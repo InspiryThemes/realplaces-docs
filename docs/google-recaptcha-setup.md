@@ -6,4 +6,4 @@ To configure **Google reCAPTCHA** you need to register your website at [Visit Go
 
 After that use those keys to fill the related fields in **Dashboard → Real Estate → reCAPTCHA** as displayed below.
 
-![Register a New Site - Google reCAPTCHA](images/google-recaptcha/google-recaptcha-api-settings.png)
+![Register a New Site - Google reCAPTCHA](images/google-recaptcha/google-recaptcha.png)

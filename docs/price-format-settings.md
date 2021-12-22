@@ -2,4 +2,4 @@
 
 You can change <strong>price format</strong> using following settings.
 
-![Real Places Theme](images/inspiry-plugin/1.png)
+![Real Places Theme](images/inspiry-plugin/price-settings.png)
