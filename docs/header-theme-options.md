@@ -16,7 +16,7 @@ You can change the header banner image. Banner image uploaded from this theme op
 
 ![Real Places Theme](images/header/header-banner.png)
 
-You can show or hide wpml language switcher if you are using WPML plugin.
+You can show or hide WPML/POLYLANG language switcher if you are using WPML or POLYLANG plugin.
 
 ![Real Places Theme](images/header/wpml-lang-switcher.png)
 
