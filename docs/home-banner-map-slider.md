@@ -1,4 +1,4 @@
-You can display on of following three things below header on homepage.
+You can display one of following three things below header on homepage.
 
 - **Image Banner**
 - **Google Map**
