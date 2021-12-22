@@ -18,7 +18,7 @@ It is highly recommended to use the child theme so that you can easily update pa
 
 ## How to Update Theme
 
-If you want to update your theme then you can consult **[this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/)** OR you can consult **[this knowledge base article to safely update Real Places Theme](https://support.inspirythemes.com/knowledgebase/update-any-wordpress-theme-safely/)**.
+If you want to update your theme then you can consult **[this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/)** OR you can consult **[this knowledge base article to safely update Theme](https://support.inspirythemes.com/knowledgebase/update-any-wordpress-theme-safely/)**.
 
 ## Support Policy
 
