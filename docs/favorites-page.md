@@ -13,6 +13,6 @@ Select <strong>Favorites</strong> template from page attributes as displayed in 
 
 Now you need to go to <strong>Appearance</strong> &rarr; <strong>Theme Options</strong> &rarr; <strong>Members</strong> and choose the newly created page as favorites page. You can also choose the number of properties to display on favorites page.
 
-![Real Places Theme](images/members/4.png)
+![Real Places Theme](images/members/3.1.png)
 
 Save the changes in theme options and your <strong>Favorites</strong> page is ready for use.

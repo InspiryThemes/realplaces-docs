@@ -24,4 +24,4 @@ Save the changes in theme options and <strong>Submit Property</strong> page is r
 
 You can enable or disable any field on the Property Submit Page using Theme Options. Navigate to **Dashboard &rarr; Appearance &rarr; Theme Options &rarr; Members &rarr; Property Submit**.
 
-![Real Places Theme](images/members/10.png)
+![Real Places Theme](images/members/10-1.png)
