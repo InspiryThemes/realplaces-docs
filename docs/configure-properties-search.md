@@ -3,17 +3,17 @@ These configuration will affect properties search form in following  places on y
 1. **Both variations of properties search form on home page.**
 2. **Properties search form widget for sidebar.**
 
-To configure properties search form, Go to <strong>Appearance</strong> &rarr; <strong>Theme Options</strong> &rarr; <strong>Search</strong>, As displayed in the screen shot below.
-### Properties Page Settings
+### Properties Search Page Settings
 
 ![Real Places Theme](images/search/2.png)
 
 <hr/>
 
-### Drag &amp; Drop Fields Manager
-You can control the search fields you want to display and their order of appearance, Using the drag &amp; drop fields manager displayed in the screen shot below.
+### Properties Search Form Settings
 
-![Real Places Theme](images/search/4.png)
+To configure properties search form, Go to <strong>Appearance</strong> &rarr; <strong>Theme Options</strong> &rarr; <strong>Search</strong>, As displayed in the screen shot below.
+
+![Real Places Theme](images/search/2.1.png)
 
 <hr/>
 
@@ -24,6 +24,14 @@ On all other occurrences of search forms you can show or hide property features 
 ![Real Places Theme](images/search/5.png)
 
 <hr/>
+
+### Drag &amp; Drop Fields Manager
+You can control the search fields you want to display and their order of appearance, Using the drag &amp; drop fields manager displayed in the screen shot below.
+
+![Real Places Theme](images/search/4.png)
+
+<hr/>
+
 
 ### Location Field's Customizable Option
 Location field is flexible to display 1 to 4 location select boxes.
