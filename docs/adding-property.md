@@ -10,11 +10,11 @@ Provide property basic information like price, area, beds, baths and garages etc
 
 ![Real Places Theme](images/content/12.png)
 
-### Location Information
-Provide property location information on google map. 
+### Provide Location on Google Map
+Provide property address and drag the google map pointer to correct location.
 <strong>Leave the address field empty to hide the map on property detail page.</strong> 
 
-![Real Places Theme](images/content/13.png)
+![Real Places Theme](images/content/131.png)
 
 ### Property Gallery
 
