@@ -15,6 +15,9 @@ theme:
 extra_css:
     - css/layout.css
 
+# Site Directory
+site_dir: "/Users/usmanaliqureshi/Downloads/Others/rp-live-doc"
+
 extra:
   social:
     - icon: 'fontawesome/brands/facebook'
