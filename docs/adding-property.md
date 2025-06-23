@@ -1,133 +1,199 @@
-Go to <strong>Dashboard &rarr; Properties &rarr; Add New</strong>
+## 🏠 Add a New Property
 
-### Provide Property Title and Description
+To add a new property, go to **Dashboard → Properties → Add New**
 
-![Real Places Theme](images/content/title-and-description.png)
+---
 
-### Basic Information
+### 📝 Property Title & Description
 
-Provide property basic information like price, area, beds, baths and garages etc. 
+Enter a clear and descriptive **title** and provide detailed information about the property in the **description** field.
 
-![Real Places Theme](images/content/12.png)
+![Title and Description](images/content/title-and-description.png)
 
-### Provide Location on Google Map
-Provide property address and drag the google map pointer to correct location.
-<strong>Leave the address field empty to hide the map on property detail page.</strong> 
+---
 
-![Real Places Theme](images/content/131.png)
+### 🔢 Basic Information
 
-### Property Gallery
+Fill in essential details like **price**, **area**, **bedrooms**, **bathrooms**, **garages**, etc.
 
-Provide property gallery images if any 
+![Basic Information](images/content/12.png)
 
-![Real Places Theme](images/content/14.png)
+---
 
-### Virtual Tour
+### 📍 Map Location
 
-Provide property virtual video if available 
+Set the property’s location:
 
-![Real Places Theme](images/content/15.png)
+- Enter the address or Drag the map marker to the exact location.
+- Optionally set a **zoom level** (integer value).
+- Leave the address field **blank** to hide the map on the property detail page.
 
-### Agent Information
+![Google Map](images/content/property-map-with-zoom.png)
 
-Provide property agent information. 
+---
 
-![Real Places Theme](images/content/16.png)
+### 🖼️ Property Gallery
 
-<strong>Difference Between Author Information and Agent's Information</strong>
+Upload gallery images for the property using the media uploader.
 
-From website visitor point of view there is no difference and information from both will be displayed in similar way.
+![Property Gallery](images/content/14.png)
 
-From website admin point of view, An author is basically a site user that logins and add a property using admin side, If his role is author or above OR add a property from front end property submission page.
+---
 
-An agent is a custom post type and any user with role equal or above author role can add those agents and later on assign properties to those agents.
+### 🎥 Virtual Tour
 
-So, basically it is a flexible feature that can be used in a way that fulfills your needs.
+Provide a **virtual video tour** link or embed code if available.
 
+![Virtual Tour](images/content/15.png)
 
-<strong>None</strong> will hide the agent's information box.
-<strong>Author information</strong> will display the Author( user who added the property ) information.
- You can configure your user information from edit profile page ( Please check related documentation section for details of setting up front end edit user profile page).
- If you have adequate rights, You can also modify the author from <strong>Author</strong> meta box on property edit page. 
+---
 
-![Real Places Theme](images/content/29.png)
+### 👤 Agent Information
 
-<strong>Display agent's information</strong> will display the selected agent's information.
+Choose how the property’s author/agent is displayed:
 
-### Mark Property as Featured
+![Agent Info](images/content/16.png)
 
-If you want to add this property into featured properties then mark this property as featured. 
-You can provide any file attachments you want to share with visitor. 
-You can keep some private notes about this property as private notes will not be displayed anywhere else. 
+#### 📌 Understanding the Difference: Author vs Agent
 
-![Real Places Theme](images/content/17.png)
+From the visitor's perspective, both look the same.
 
-### Add Property to Home Page Slider
+From the admin's perspective:
 
-If you want to add this property in homepage slider then you need to choose <strong>Yes</strong> for field displayed in the screen shot below and provide slider image as required by <strong>Slider Image</strong> field below it.  
+- **Author**: A registered site user (with at least Author role) who adds a property from the dashboard or front-end submission page.
+- **Agent**: A separate post type that can be created by users with sufficient privileges and assigned to properties.
 
-![Real Places Theme](images/content/18.png)
+> This flexible setup allows you to display whichever makes more sense for your use case.
 
-### Top Banner Settings
+| Option | Behavior |
+|--------|----------|
+| **None** | Hides the agent/author box |
+| **Author Information** | Displays details of the user who added the property (editable via profile page) |
+| **Agent's Information** | Displays the selected agent’s profile |
 
-If you are interested in using a custom banner image for this property then you can upload that using banner image upload field displayed in the screen shot below. 
+You can also change the author from the **Author meta box** on the property edit screen.
 
-![Real Places Theme](images/content/19.png)
+![Author Meta Box](images/content/29.png)
 
-### Additional Details
+---
 
- You can provide additional details about a property using related meta box displayed in the screen shot below.
+### ⚡ Energy Performance Certificate
 
-![Real Places Theme](images/content/20.png)
+Fill in the **Energy Performance Certificate** fields if available.  
+A visual energy class graph will display this on the frontend.
 
-### Property Excerpt
+![Energy Performance](images/content/energy-performance.png)
 
- If you feel like regular description is not good enough to be displayed as excerpt then you can add your own hand crafted excerpt using related meta box displayed in the screen shot below.
+---
 
-![Real Places Theme](images/content/21.png)
+### 🌟 Mark Property as Featured
 
-### Property Featured Image
+Enable the **Featured Property** option if this property should appear in featured listings.  
+You can also:
 
- You need to upload a featured image for every property and make sure it's size is equal or greater than <strong>850px by 600px</strong> 
+- Attach downloadable files
+- Add **private notes** (not shown to visitors)
 
-![Real Places Theme](images/content/22.png)
+![Featured Property](images/content/17.png)
 
-### Property Type
+---
 
- Choose a property type if already exists or add new one that properly represents your property.
+### 🖼️ Add to Homepage Slider
 
-![Real Places Theme](images/content/23.png)
+To include this property in the homepage slider:
 
-### Property Status
+- Set the toggle to **Yes**
+- Upload a **Slider Image** as required
 
- Select a property status if already exists or add new one that properly represents your property.
+![Homepage Slider](images/content/18.png)
 
-![Real Places Theme](images/content/24.png)
+---
 
-### Property Location
+### 🏞️ Top Banner Settings
 
- Select a property location if already exists or add new on that properly represents your property.
+Upload a **custom banner image** for the property if needed.
 
-If you are using hierarchical locations then make sure to choose the one at the lowest level ( lowest level child ) and parents will be considered automatically.
+![Top Banner](images/content/19.png)
 
-![Real Places Theme](images/content/25.png)
+---
 
-### Property Features
+### 📋 Additional Details
 
- Choose the applicable property features if already exists or add new one that are important for your property.
+Add extra details relevant to the property using the **Additional Details** meta box.
 
-![Real Places Theme](images/content/26.png)
+![Additional Details](images/content/20.png)
 
-### Child/Sub Property
+---
 
- If you are selling a property that is a child/sub property of another property that is also in market for sale or rent then you can connect two properties in a parent child relationship using met box displayed in the screen shot below.
+### ✂️ Property Excerpt
 
-![Real Places Theme](images/content/27.png)
+If the main description isn’t suitable for previews, provide a custom **excerpt**.
 
-### Property Payment Information
+![Excerpt](images/content/21.png)
 
- If you are taking payments for your properties then related payment information for paid properties will be displayed in a meta box that is displayed in the following screen shot.
+---
 
-![Real Places Theme](images/content/28.png)
+### 📷 Property Featured Image
 
-So, Provide that information related to your property using all the options described above and Publish it once you are done.
+Upload a **featured image** with dimensions at least **850x600 pixels**.  
+This is required and used in listings and detail pages.
+
+![Featured Image](images/content/22.png)
+
+---
+
+### 🏷️ Property Type
+
+Select an existing **property type** or create a new one.
+
+![Property Type](images/content/23.png)
+
+---
+
+### 🚦 Property Status
+
+Select or create a **property status** (e.g., For Sale, For Rent, etc.)
+
+![Property Status](images/content/24.png)
+
+---
+
+### 📍 Property Location
+
+Choose an existing or add a new **property location**.
+
+> If you're using **hierarchical locations**, select the **lowest level child** – the parent(s) will be assigned automatically.
+
+![Property Location](images/content/25.png)
+
+---
+
+### ✔️ Property Features
+
+Select or add **features** that apply to the property (e.g., Swimming Pool, Garden, etc.)
+
+![Property Features](images/content/26.png)
+
+---
+
+### 🧩 Child/Sub Property
+
+If this property is part of another (like an apartment in a building), assign it as a **child property** to a parent property.
+
+![Child Property](images/content/27.png)
+
+---
+
+### 💳 Property Payment Information
+
+If your site uses paid property listings, related payment details will appear in this section for **paid listings**.
+
+![Payment Info](images/content/28.png)
+
+---
+
+### ✅ Final Step
+
+Once you’ve completed all the relevant sections, click **Publish** to make your property live.
+
+> You can edit the property anytime later to update its content or settings.
