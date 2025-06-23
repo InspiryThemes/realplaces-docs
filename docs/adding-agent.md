@@ -1,25 +1,50 @@
-# Add Agent
+## 👨‍💼 Add a New Agent
 
-Go to <strong>Dashboard &rarr; Agents &rarr; Add New</strong>
+To add a new real estate agent, go to **Dashboard → Agents → Add New**
 
-### Agent Name and Description
+---
 
-Provide the agent name and description
+### 📝 Agent Name & Description
 
-![Real Places Theme](images/content/add-agent-title-description.png)
+Provide the **agent’s full name** and a **brief description or biography** that highlights their experience, credentials, or specialties.
 
-# Featured Image
+![Agent Name and Description](images/content/add-agent-title-description.png)
 
-Provide featured image. Featured image should have <strong>minimum width of 220px and minimum height of 220px</strong>.
+---
 
-Images bigger in size will be cropped automatically.
+### 🖼️ Featured Image
 
-![Real Places Theme](images/content/8.png)
+Upload a **featured image** for the agent.
 
-### Agent Information
+- Minimum size: **220px × 220px**
+- Larger images will be **automatically cropped**
 
-Provide the agent related details
+> ✅ Make sure the image is professional and clearly represents the agent.
 
-![Real Places Theme](images/content/9.png)
+![Featured Image](images/content/8.png)
 
-**Publish** the agent once you are done.
+---
+
+### 📋 Agent Information
+
+Fill out all relevant **contact and profile details**, such as:
+
+- Job Title
+- Email Address
+- Mobile Number
+- Office Number
+- Fax Number
+- Office Address
+- Social Media Profiles
+
+These details will be displayed on the agent's profile and associated property listings.
+
+![Agent Info](images/content/9.png)
+
+---
+
+### ✅ Final Step
+
+Once all fields are filled in, click **Publish** to save and activate the agent’s profile on the website.
+
+> The agent can now be assigned to properties from the **property edit screen**.

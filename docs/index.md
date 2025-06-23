@@ -1,7 +1,8 @@
 !!!info "Important Information"
     This documentation was last updated on **23rd June, 2025**. The current version of RealPlaces is {==**v1.9.9**==}, so please ensure to use latest version.
 
-Thank you for purchasing the **Real Places – WordPress Real Estate Theme**.  
+Thank you for purchasing the **Real Places – WordPress Real Estate Theme**.
+
 If you have any questions that are not covered in this documentation, please reach out to us through our **[official support platform](http://support.inspirythemes.com/)**.
 
 To sign up on our support site, you will need your purchase code. You can find instructions in **[this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)** on how to obtain it from ThemeForest.
@@ -15,7 +16,7 @@ A pre-built, ready-to-use child theme is included in the main theme package down
 
 ---
 
-## ⚡ Performance Improvement Tips
+## ⚡ Performance Tips
 
 ### 🔹 Basic Recommendations
 

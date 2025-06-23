@@ -1,35 +1,58 @@
-# Add News/Post
+## 📰 Add News / Blog Post
 
-Go to <strong>Dashboard</strong> &rarr; <strong>Posts</strong> &rarr; <strong>Add New</strong>
+To add a new blog post or news article, navigate to **Dashboard → Posts → Add New**
 
-### Post Title and Description
+---
 
-Provide the post title and description
+### 📝 Post Title & Content
 
-![Real Places Theme](images/content/add-news-post.png)
+Enter a clear and engaging **post title**, and write your post content in the main editor area.
 
-### Post Format
+![Post Title and Description](images/content/add-news-post.png)
 
-Select the related post format 
+---
 
-![Real Places Theme](images/content/2.png)
+### 🗂️ Post Format
 
-<strong>Post Formats and Related Meta Boxes:</strong>
+Select the appropriate **Post Format** (e.g., Standard, Gallery, Video, etc.).
 
-This theme supports various post formats. So, when you select a post format look out for related meta boxes that will appear after your selection. You need to fill out those meta boxes with related information, so that your post can appear in best possible design.
+![Post Format](images/content/2.png)
 
-### Select Category and Tags
+#### 🔍 Post Formats & Related Meta Boxes
 
-Add or select related category and tags
+The theme supports multiple post formats.  
+Upon selecting a format, **related meta boxes** will appear below the editor. Make sure to:
 
-![Real Places Theme](images/content/4.png)
+- Fill out those fields properly
+- Add any required media or links
 
-### Featured Image
+> 🎯 This ensures your post is displayed in the best layout style matching its content type.
 
-Provide featured image. Featured image should have minimum width of 850px and minimum height of 570px.
+---
 
-<strong>Images bigger than minimum required size will be cropped automatically.</strong>
+### 🏷️ Select Category & Tags
 
-![Real Places Theme](images/content/5.png)
+Choose or create a relevant **category** and add appropriate **tags** to help organize your content.
 
-**Publish** the post once you are done.
+![Categories and Tags](images/content/4.png)
+
+---
+
+### 🖼️ Featured Image
+
+Upload a **featured image** for your post.
+
+- Minimum size: **850px × 570px**
+- Larger images will be **automatically cropped** to fit
+
+> 📌 A high-quality featured image helps grab attention and is used across blog listings and widgets.
+
+![Featured Image](images/content/5.png)
+
+---
+
+### ✅ Final Step
+
+Once you’ve added all the required content and settings, click **Publish** to make your post live.
+
+> You can always return to **Posts → All Posts** to edit or update your content later.

@@ -1,4 +1,4 @@
-You can change the <strong>property detail page</strong> section order or disable any section using the following settings.
+You can change the <strong>property details page</strong> section order or disable any section using the following settings.
 
 ![Real Places Theme](images/property-detail/1.png)
 
