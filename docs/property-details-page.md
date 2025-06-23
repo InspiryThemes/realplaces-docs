@@ -1,6 +1,6 @@
 You can change the <strong>property details page</strong> section order or disable any section using the following settings.
 
-![Real Places Theme](images/property-detail/1.png)
+![Real Places Theme](images/property-detail/property-details-page-basic-settings.png)
 
 If you want to choose different header variation for your property detail page, you can do it as shown below
 
