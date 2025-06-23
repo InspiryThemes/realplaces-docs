@@ -1,86 +1,134 @@
+## 🌐 Import Demo Content
 
-You can follow one of these choices.
+You can import demo content using one of the following methods:
 
-<strong>One Click Demo Import</strong> ( Automatic & Recommended )
-<strong>Import XML Contents and Configure the Theme Manually</strong>
+1. **One-Click Demo Import** – *Automatic & Recommended*
+2. **Manual XML Import** – *For advanced users or fallback cases*
 
-One Click Demo Import ( Automatic & Recommended )
+---
 
-**Step 1**
+## ⚡ One-Click Demo Import (Recommended)
 
-Go to <strong>Dashboard</strong> &rarr; <strong>Settings</strong> &rarr; <strong>Permalinks</strong> and choose <strong>Post name</strong> from <strong>Common Settings</strong> and save the changes, As displayed in the screen shot below.
-![Real Places Theme](images/install/12.png)
+### ✅ Step 1 – Configure Permalinks
 
-**Step 2**
+Go to **Dashboard → Settings → Permalinks**, select **Post name** under *Common Settings*, and click **Save Changes**.
 
-Note: It is important to complete <strong>Step 1</strong> as property search is programmed to work with pretty permalinks. Otherwise you might face some issues after demo import.
+> 🔒 This step is critical as the property search system relies on pretty permalinks.
 
-Go to <strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Import Demo Data</strong> and click on <strong>Import Demo Data</strong> button .
+![Permalink Settings](images/install/12.png)
 
-![Real Places Theme](images/install/13.png)
+---
 
-After clicking the <strong>Import Demo Data</strong> button, <strong>Wait for few minutes</strong> as the demo images are being fetched from remote server and this process can take few minutes.
+### 🚀 Step 2 – Start Import Process
 
-![Real Places Theme](images/install/14.png)
+Go to **Dashboard → Appearance → Import Demo Data**  
+Click on the **Import Demo Data** button to begin, and on the next page click on **Continue & Import**.
 
-**Step 3**
+![Import Demo Page](images/install/13.png)
 
-Once the import process is complete, You will see a screen like the one below. Visit your site and you will find your site working like the theme demo.
+> ⏳ **Please wait** while demo images and data are fetched from the remote server. This may take a few minutes depending on your connection and server speed.
 
-![Real Places Theme](images/install/15.png)
+![Import In Progress](images/install/14.png)
 
-<strong>Note:</strong> The number of imported posts, pages, properties and other stuff is smaller than real demo to make the import process reasonably fast. Otherwise it can be a problem for most users to import demo data.
+---
 
+### ✅ Step 3 – Done
 
-Import XML Contents and Configure the Theme Manually
+Once the import completes, you’ll see a success screen.  
+Visit your site and it should now look like the theme demo.
 
-**Step 1**
+![Import Complete](images/install/15.png)
 
-Go to <strong>Dashboard</strong> &rarr; <strong>Tools</strong> &rarr; <strong>Import</strong> and click <strong>WordPress</strong> as displayed in image below.
+> 📝 **Note:** The imported content is a simplified version of the full demo to ensure faster import. It includes all necessary content but with fewer items.
 
-![Real Places Theme](images/install/16.png)
+---
 
-First of all, you need to install <strong>WordPress Importer Plugin</strong>
-![Real Places Theme](images/install/17.png)
+## 🛠️ Manual XML Import (Alternative Method)
 
-Once installed, you need to activate the plugin and run the importer.
-![Real Places Theme](images/install/18.png)
+Use this method only if the one-click importer fails or you prefer manual setup.
 
+---
 
-**Step 2**
+### 📄 Step 1 – Install WordPress Importer
 
-Look for <strong>Import XML</strong> folder in unzipped package downloaded from themeforest. There will be two sub-folders in <strong>Import XML</strong> folder,
-"default-demo" and "fallback-demo" both contains same stuff but hosted on different servers.
-You can use the <em>content.xml</em> from any of these folders to import demo contents.
+Go to **Dashboard → Tools → Import**  
+Click **WordPress** at the bottom of the list.
 
-![Real Places Theme](images/install/19.png)
+![Choose WordPress Importer](images/install/16.png)
 
-After importing file, Assign posts to an existing author. Mark the checkbox to download and import file attachments and Click 'Submit' button.
+You will be prompted to install the **WordPress Importer Plugin**.
 
-![Real Places Theme](images/install/20.png)
+![Install Importer](images/install/17.png)
 
-Import process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.
+After installation, click **Activate Plugin & Run Importer**.
 
-After that is done, you will have bunch of posts, pages, properties and other contents imported into your WordPress installation.
+![Run Importer](images/install/18.png)
 
+---
 
-**Step 3**
+### 📁 Step 2 – Upload XML File
 
-Navigate to <strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Menus</strong> and use the Already Imported Menu from XML and assign it to theme location "<strong>Primary Menu</strong>" from <strong>Menu Settings</strong> section below menu. After that save the menu. As pointed in the screen shot below.
+1. Locate the `Import XML` folder inside your extracted theme package.
+2. Choose either the `default-demo` or `fallback-demo` folder – both contain the same data but are hosted on different servers.
+3. Upload the `content.xml` file.
 
-![Real Places Theme](images/install/21.png)
+![Choose XML File](images/install/19.png)
 
-**Step 4**
+During the import:
 
-To configure reading settings you need to visit <strong>Dashboard</strong> &rarr; <strong>Settings</strong> &rarr; <strong>Reading</strong> and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page. As, displayed in the screen shot below.
-![Real Places Theme](images/install/22.png)
+- Assign posts to an existing author
+- Check the box to **Download and import file attachments**
+- Click **Submit**
 
+![Import XML Settings](images/install/20.png)
 
-<strong>Next Step is to Configure Permalink Settings</strong>
+> ⚠️ The process may take a few minutes. Stay on the same browser tab until it finishes.
 
-**Step 5**
+---
 
- To configure permalinks settings visit <strong>Dashboard</strong> &rarr; <strong>Settings</strong> &rarr; <strong>Permalinks</strong> and change it as displayed in the screen shot below.
-![Real Places Theme](images/install/12.png)
- Now, All the remaining settings are mostly in theme options and plugin options. You can import theme options using <strong>theme-options.txt</strong> and widgets using <strong>widgets.wie</strong> with
-<a target="_blank" href="https://wordpress.org/plugins/widget-importer-exporter/">Following Plugin</a>. 
+### 🧭 Step 3 – Setup Navigation Menu
+
+Go to **Dashboard → Appearance → Menus**
+
+1. Select the menu that was imported with the demo content.
+2. Assign it to the **Primary Menu** location under *Menu Settings*.
+3. Click **Save Menu**.
+
+![Assign Menu](images/install/21.png)
+
+---
+
+### 🏠 Step 4 – Configure Reading Settings
+
+Go to **Dashboard → Settings → Reading**
+
+- Set **Your homepage displays** to **A static page**
+- Set **Homepage** to *Home*
+- Set **Posts page** to *News*
+
+![Reading Settings](images/install/22.png)
+
+---
+
+### 🔁 Step 5 – Configure Permalinks Again
+
+It’s a good idea to revisit **Dashboard → Settings → Permalinks**  
+Ensure **Post name** is selected and save again.
+
+![Permalink Settings](images/install/12.png)
+
+---
+
+### 🎛️ Import Theme Options & Widgets (Optional)
+
+To complete your setup:
+
+- Import **theme-options.txt** for theme settings.
+- Import **widgets.wie** for sidebar and footer widgets.
+
+You’ll need this plugin to import widgets:  
+🔌 [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/)
+
+---
+
+✅ Once done, your site should closely match the demo and be ready for customization!

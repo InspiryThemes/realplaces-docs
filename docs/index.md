@@ -1,34 +1,54 @@
 !!!info "Important Information"
-    This documentation is last updated on {==**14th May, 2025**==}.
+    This documentation was last updated on **23rd June, 2025**. The current version of RealPlaces is {==**v1.9.9**==}, so please ensure to use latest version.
 
-Thanks for purchasing **Real Places WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation should be asked on our **[support platform](http://support.inspirythemes.com/)**. You can visit **[this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)** to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
+Thank you for purchasing the **Real Places – WordPress Real Estate Theme**.  
+If you have any questions that are not covered in this documentation, please reach out to us through our **[official support platform](http://support.inspirythemes.com/)**.
 
-### Important Note
+To sign up on our support site, you will need your purchase code. You can find instructions in **[this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)** on how to obtain it from ThemeForest.
 
-It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from ThemeForest. It is commonly called **rp-main-pack.zip**.
+---
 
-## Few Performance Improvement Tips
+### 🛠️ Important Note
 
-### Basic Recommendations
+We strongly recommend using the **child theme** to ensure smooth updates of the parent theme without losing custom changes.  
+A pre-built, ready-to-use child theme is included in the main theme package downloaded from ThemeForest. The package is commonly named **`rp-main-pack.zip`**.
 
-* Use **PHP 7.2 or greater** as it is faster than previous versions of PHP and a **[base requirement of WordPress](https://wordpress.org/about/requirements/)**. ( You can communicate with your hosting provider to get it updated. )
-* Make sure your hosting is based on SSD drives.
-* It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.
-* Use a good cache plugin and test your site properly after installing and configuring it.
+---
 
-## How to Update Theme
+## ⚡ Performance Improvement Tips
 
-If you want to update your theme then you can consult **[this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/)** OR you can consult **[this knowledge base article to safely update Theme](https://support.inspirythemes.com/knowledgebase/update-any-wordpress-theme-safely/)**.
+### 🔹 Basic Recommendations
 
-## Support Policy
+- Use **PHP version 7.2 or higher** for better performance and compatibility.  
+  (You can contact your hosting provider to upgrade your PHP version.)  
+  > _Note: PHP 7.2+ is also a [base requirement for WordPress](https://wordpress.org/about/requirements/)._
 
-### Support Includes
+- Ensure your hosting server uses **SSD storage** for faster read/write speeds.
 
-- Answering technical questions about theme features.
-- Assistance with reported bugs and issues.
-- Help with included 3rd party assets.
+- Prefer **VPS (Virtual Private Server)** hosting over shared hosting for better performance, stability, and control.
 
-### Support Does Not Includes
+- Install a reliable **caching plugin** and test your website thoroughly after configuration for best results.
 
-- Theme customization services.
-- Theme installation services.
+---
+
+## ⬆️ How to Update the Theme
+
+To update your theme, you can follow one of these guides:
+
+- **[Automatic update using Envato WordPress Toolkit](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/)**
+- **[Safe manual update instructions](https://support.inspirythemes.com/knowledgebase/update-any-wordpress-theme-safely/)**
+
+---
+
+## 🛟 Support Policy
+
+### ✅ Support Includes
+
+- Answering technical questions related to theme features.
+- Fixing reported bugs and issues.
+- Assistance with third-party assets included with the theme.
+
+### ❌ Support Does Not Include
+
+- Customization of the theme.
+- Installation services.

@@ -1,57 +1,81 @@
-In start, You must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex <a target="_blank" href="https://codex.wordpress.org/Installing_WordPress">Installing WordPress</a> especially the <a href="https://wordpress.org/about/requirements/" target="_blank">Requirements</a>.
-Once you have a working version of WordPress, you need to download <a data-lightbox="all-files" href="assets/common-images/all-files.png">All files and documentation</a> from themeforest and extract the downloaded zip to get various files including <strong>inspiry-real-places.zip</strong>.
+## 🧱 Getting Started
 
-### Install Theme Via WordPress Dashboard
+Before installing the theme, you must have a **working WordPress installation**.  
+If you haven't installed WordPress yet, please refer to the official guides:
 
-1. Go to <strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Themes</strong> section
-2. Click <strong>Add New</strong>' and select the '<strong>Upload Theme</strong> option
-![Real Places Theme](images/install/1.png)
-![Real Places Theme](images/install/2.png)
+- 📘 [Installing WordPress – WordPress Codex](https://codex.wordpress.org/Installing_WordPress)
+- ⚙️ [Server Requirements](https://wordpress.org/about/requirements/)
 
-3. Choose the <strong>inspiry-real-places.zip</strong> file and press **Install Now**
-![Real Places Theme](images/install/3.png)
+Once WordPress is set up and running, download the **All Files & Documentation** package from ThemeForest and extract the ZIP file.  
+Inside, you'll find the following:
 
-4. Once the theme is uploaded you need to go back to themes page without activating it as it is recommended to use the <strong>child theme</strong> and now we will upload it.
-![Real Places Theme](images/install/4.png)
+- `inspiry-real-places.zip` — Main theme file  
+- `inspiry-real-places-child.zip` — Child theme file  
+- Documentation, licensing info, and more
 
-5. Follow step 2 again and Choose the <strong>inspiry-real-places-child.zip</strong> file and press <strong>Install Now</strong>
-![Real Places Theme](images/install/5.png)
+📸 Sample Folder Structure  
+![Upload Theme Step 1](images/common-images/all-files.png)
 
-6. Once the child theme is uploaded you can activate it.
-![Real Places Theme](images/install/6.png)
+---
 
-Activating the theme will take you to the themes page.
+## 📥 Theme Installation via WordPress Dashboard
 
-if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
+1. Go to **Dashboard → Appearance → Themes**
+2. Click **Add New**, then select **Upload Theme**
+   ![Upload Theme Step 1](images/install/1.png)
+   ![Upload Theme Step 2](images/install/2.png)
+3. Upload the `inspiry-real-places.zip` file and click **Install Now**
+   ![Install Theme](images/install/3.png)
+4. After the theme uploads successfully, **do not activate it yet**.  
+   Instead, return to the **Themes** screen to install the **child theme**.
+   ![Skip Activation](images/install/4.png)
+5. Repeat Step 2, this time uploading `inspiry-real-places-child.zip`, and click **Install Now**
+   ![Install Child Theme](images/install/5.png)
+6. Once the child theme is uploaded, go ahead and **Activate** it
+   ![Activate Child Theme](images/install/6.png)
 
-### Install Theme Via FTP - (Alternative)
+> 🎯 Always use the **child theme** to ensure your customizations remain intact after theme updates.
 
-1. Access your hosting server using an FTP client like <a target="_blank" href="https://filezilla-project.org/">FileZilla</a>.
-2. Go to the '<strong>wp-content</strong>/<strong>themes</strong>' folder of your WordPress installation.
-3. Extract the <strong>inspiry-real-places.zip</strong> file and put the <strong>inspiry-real-places</strong> folder in 'wp-content/themes/' folder.
-4. After that extract the <strong>inspiry-real-places-child.zip</strong> file and put the <strong>inspiry-real-places-child</strong> folder in 'wp-content/themes/' folder.
-5. Go to '<strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Themes</strong>' section to activate the Real Places child theme.
+If you encounter any issues uploading via the dashboard, follow the FTP method below.
 
-Activating the theme will take you to the themes page.
+---
 
-### Install Required Plugins
+## 🌐 Theme Installation via FTP (Alternative)
 
-- After you have installed and activated the Real Places child theme. Go to <strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Themes</strong> there'll be a message of required & recommended plugins at the top of the Dashboard.
-![Real Places Theme](images/install/7.png)
+1. Use an FTP client like [FileZilla](https://filezilla-project.org/) to access your website's files.
+2. Navigate to the `wp-content/themes/` directory of your WordPress installation.
+3. Extract `inspiry-real-places.zip` and upload the extracted folder to the `themes` directory.
+4. Similarly, extract and upload the `inspiry-real-places-child.zip` to the same location.
+5. Go to **Dashboard → Appearance → Themes** and activate the **Real Places Child Theme**.
 
-- Click on <strong>Begin Installing Plugins</strong> and it will take you to <strong>Dashboard</strong> &rarr; <strong>Appearance</strong> &rarr; <strong>Install Plugins</strong>
-![Real Places Theme](images/install/8.png)
+> ✅ After activation, you’ll be redirected to the themes page.
 
-- Now, <strong>Install</strong> the plugins as demonstrated in the screen shot below.
-![Real Places Theme](images/install/9.1.png)
+---
 
-- After installation, you will view a screen like below, Return to required plugins installer.
-![Real Places Theme](images/install/10.png)
+## 🔌 Install Required Plugins
 
-- Now <strong>Activate</strong> all the plugins as demonstrated in the screen shot below.
-![Real Places Theme](images/install/11.1.png)
+Once the **Real Places Child Theme** is activated:
 
-- After activating required plugins, Go to <strong>Inspiry Real Estate</strong> plugin settings and save them for 1st time. As guided in screenshot below.
-![Real Places Theme](images/install/11-b.png)
+1. A notice will appear at the top of the dashboard recommending required and optional plugins.
+   ![Plugin Notice](images/install/7.png)
 
-Once all of the above is <strong>Done</strong>. The next step is to <strong>Import Demo Contents</strong>.
+2. Click **Begin Installing Plugins**.  
+   This will take you to **Dashboard → Appearance → Install Plugins**.
+   ![Install Plugins Screen](images/install/8.png)
+
+3. Select and **Install** all the recommended plugins.
+   ![Installing Plugins](images/install/9.1.png)
+
+4. After installation, click the option to **Return to Required Plugins Installer**.
+   ![Return to Plugin Installer](images/install/10.png)
+
+5. Now, **Activate** all the installed plugins.
+   ![Activate Plugins](images/install/11.1.png)
+
+6. Finally, go to **Dashboard → Inspiry Real Estate → Settings** and click **Save Changes** once to initialize default settings.
+   ![Save Plugin Settings](images/install/11-b.png)
+
+---
+
+✅ Once all of the above steps are complete, you are ready for the next step:  
+👉 **[Importing Demo Content](http://documentation.inspirydemos.com/realplaces/import-demo-contents/)**
